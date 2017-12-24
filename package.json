@@ -1,0 +1,25 @@
+{
+  "name": "work-flow-by-juan-pablo",
+  "version": "1.0.0",
+  "description": "My web Workflow with NPM, SASS, Gulp and more",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuldeepsinghbc/workflow-by-juanpablo.git"
+  },
+  "keywords": [
+    "SASS",
+    "NPM",
+    "Git",
+    "Gulp"
+  ],
+  "author": "Juan Pablo De la torre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuldeepsinghbc/workflow-by-juanpablo/issues"
+  },
+  "homepage": "https://github.com/kuldeepsinghbc/workflow-by-juanpablo#readme"
+}

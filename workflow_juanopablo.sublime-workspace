@@ -1,0 +1,414 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"order",
+				"orderby"
+			],
+			[
+				"htm",
+				"htmlc\thtml-comment"
+			],
+			[
+				"ht",
+				"htmlc\thtml-comment"
+			],
+			[
+				"the",
+				"the_post_thumbnail"
+			],
+			[
+				"the_post",
+				"the_post_thumbnail"
+			],
+			[
+				"instructo",
+				"$instructor_section_title〔variable〕"
+			],
+			[
+				"twitt",
+				"twitter_username"
+			],
+			[
+				"bi",
+				"bio_excerpt"
+			],
+			[
+				"has_post",
+				"has_post_thumbnail\tWP Function"
+			],
+			[
+				"income",
+				"$income_feature_image〔variable〕"
+			],
+			[
+				"cour",
+				"$course_url〔variable〕"
+			],
+			[
+				"st",
+				"stylesheet_directory"
+			],
+			[
+				"text",
+				"textarea\tTag"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"carouse",
+				"carousel-example"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"get",
+				"getJSON"
+			],
+			[
+				"sear",
+				"searchField"
+			],
+			[
+				"set",
+				"setTimeout〔function〕"
+			],
+			[
+				"add",
+				"addSearchHTML"
+			],
+			[
+				"is",
+				"isSpinnerVisible"
+			],
+			[
+				"se",
+				"searchField"
+			],
+			[
+				"resu",
+				"resultsDiv"
+			],
+			[
+				"clos",
+				"closeOverlay"
+			],
+			[
+				"ope",
+				"openOverlay"
+			],
+			[
+				"map",
+				"mapLocation"
+			],
+			[
+				"page",
+				"pageBanner〔function〕"
+			],
+			[
+				"relate",
+				"$relatedPrograms〔variable〕"
+			],
+			[
+				"past",
+				"$pastEvents〔variable〕"
+			],
+			[
+				"have",
+				"have_posts"
+			],
+			[
+				"the_arch",
+				"the_archive_title\tWP Function"
+			],
+			[
+				"thep",
+				"$theParent〔variable〕"
+			],
+			[
+				"doubl",
+				"doubleMe〔function〕"
+			],
+			[
+				"site",
+				"site_url"
+			],
+			[
+				"add_theme",
+				"add_theme_support\tWP Function"
+			],
+			[
+				"get_theme_file",
+				"get_theme_file_uri\tWP Function"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 261.0,
+		"last_filter": "Package Control: in",
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 741.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Kuldeep/Desktop/local-sites/workflow-by-juanpablo"
+	],
+	"file_history":
+	[
+		"/C/Users/Kuldeep/Desktop/local-sites/bootstrap-to-wordpress/app/public/wp-content/themes/bootstrap2wordpress/style.css",
+		"/C/Users/Kuldeep/Desktop/local-sites/bootstrap-to-wordpress/app/public/wp-content/themes/bootstrap2wordpress/footer.php",
+		"/C/Users/Kuldeep/Desktop/local-sites/bootstrap-to-wordpress/app/public/wp-content/themes/bootstrap2wordpress/header.php",
+		"/C/Users/Kuldeep/Desktop/local-sites/bootstrap-to-wordpress/app/public/wp-content/themes/bootstrap2wordpress/404.php",
+		"/C/Users/Kuldeep/Desktop/local-sites/bootstrap-to-wordpress/app/public/wp-content/themes/bootstrap2wordpress/404-2php",
+		"/C/Users/Kuldeep/Desktop/local-sites/bootstrap-to-wordpress/app/public/wp-content/themes/bootstrap2wordpress/functions.php",
+		"/C/Users/Kuldeep/Desktop/local-sites/bootstrap-to-wordpress/app/public/wp-content/themes/bootstrap2wordpress/index.php",
+		"/C/Users/Kuldeep/Desktop/local-sites/bootstrap-to-wordpress/app/public/wp-content/themes/bootstrap2wordpress/search.php",
+		"/C/Users/Kuldeep/Desktop/local-sites/bootstrap-to-wordpress/app/public/wp-content/themes/bootstrap2wordpress/template-parts/content-search.php",
+		"/C/Users/Kuldeep/Desktop/local-sites/bootstrap-to-wordpress/app/public/wp-content/themes/bootstrap2wordpress/page-fullwidth.php",
+		"/C/Users/Kuldeep/Desktop/local-sites/B2W-STATIC/contact2.html",
+		"/C/Users/Kuldeep/Desktop/local-sites/bootstrap-to-wordpress/app/public/wp-content/themes/bootstrap2wordpress/archive.php",
+		"/C/Users/Kuldeep/Desktop/local-sites/bootstrap-to-wordpress/app/public/wp-content/themes/bootstrap2wordpress/comments.php",
+		"/C/Users/Kuldeep/Desktop/local-sites/bootstrap-to-wordpress/app/public/wp-content/themes/bootstrap2wordpress/template-parts/content.php",
+		"/C/Users/Kuldeep/Desktop/local-sites/bootstrap-to-wordpress/app/public/wp-content/themes/bootstrap2wordpress/single.php",
+		"/C/Users/Kuldeep/Desktop/local-sites/bootstrap-to-wordpress/app/public/wp-content/themes/bootstrap2wordpress/template-parts/content-single.php",
+		"/C/Users/Kuldeep/Desktop/local-sites/B2W-STATIC/blog.html",
+		"/C/Users/Kuldeep/Desktop/local-sites/B2W-STATIC/post.html",
+		"/C/Users/Kuldeep/Desktop/local-sites/bootstrap-to-wordpress/app/public/wp-content/themes/bootstrap2wordpress/page-resources.php",
+		"/C/Users/Kuldeep/Desktop/local-sites/bootstrap-to-wordpress/app/public/wp-content/themes/bootstrap2wordpress/page-home.php",
+		"/C/Users/Kuldeep/Desktop/local-sites/bootstrap-to-wordpress/app/public/wp-content/themes/bootstrap2wordpress/content-benefits.php",
+		"/C/Users/Kuldeep/Desktop/local-sites/bootstrap-to-wordpress/app/public/wp-content/themes/bootstrap2wordpress/content-testimonials.php",
+		"/C/Users/Kuldeep/Desktop/local-sites/bootstrap-to-wordpress/app/public/wp-content/themes/bootstrap2wordpress/content-coursefeatures.php",
+		"/C/Users/Kuldeep/Desktop/local-sites/bootstrap-to-wordpress/app/public/wp-content/themes/bootstrap2wordpress/content-projectfeatures.php",
+		"/C/Users/Kuldeep/Desktop/local-sites/bootstrap-to-wordpress/app/public/wp-content/themes/bootstrap2wordpress/content-instructor.php",
+		"/C/Users/Kuldeep/Desktop/local-sites/bootstrap-to-wordpress/app/public/wp-content/themes/bootstrap2wordpress/content-video.php",
+		"/C/Users/Kuldeep/Desktop/local-sites/bootstrap-to-wordpress/app/public/wp-content/themes/bootstrap2wordpress/content-boost.php",
+		"/C/Users/Kuldeep/Desktop/local-sites/bootstrap-to-wordpress/app/public/wp-content/themes/bootstrap2wordpress/content-optin.php",
+		"/C/Users/Kuldeep/Desktop/local-sites/bootstrap-to-wordpress/app/public/wp-content/themes/bootstrap2wordpress/content-hero.php",
+		"/C/Users/Kuldeep/Desktop/local-sites/B2W-STATIC/index.html",
+		"/C/Users/Kuldeep/Desktop/local-sites/B2W-STATIC/learningEmmet.html",
+		"/C/Users/Kuldeep/Desktop/local-sites/B2W-STATIC/testing-sublime.html",
+		"/C/Users/Kuldeep/Desktop/local-sites/B2W-STATIC/resources.html",
+		"/C/Users/Kuldeep/Desktop/local-sites/B2W-STATIC/contact.html",
+		"/C/Users/Kuldeep/Desktop/local-sites/B2W-STATIC/assets/css/custom.css",
+		"/C/Users/Kuldeep/AppData/Roaming/Sublime Text 3/Packages/User/mydiv.sublime-snippet",
+		"/C/Users/Kuldeep/Desktop/local-sites/B2W-STATIC/assets/js/main.js",
+		"/C/Users/Kuldeep/Desktop/local-sites/B2W-STATIC/jquery-2.1.1.min.js",
+		"/C/Users/Kuldeep/Desktop/local-sites/sitepointcustomtheme/app/public/wp-content/themes/sitepoint/header.php",
+		"/C/Users/Kuldeep/Desktop/local-sites/sitepointcustomtheme/app/public/wp-content/themes/sitepoint/functions.php",
+		"/C/Users/Kuldeep/Desktop/local-sites/fictionaluniversity/app/public/wp-content/themes/fictional-university-theme/js/scripts.js",
+		"/C/Users/Kuldeep/Desktop/local-sites/fictionaluniversity/app/public/wp-content/themes/fictional-university-theme/footer.php",
+		"/C/Users/Kuldeep/Desktop/local-sites/fictionaluniversity/app/public/wp-content/themes/fictional-university-theme/js/modules/Search.js",
+		"/C/Users/Kuldeep/Desktop/local-sites/fictionaluniversity/app/public/wp-content/themes/fictional-university-theme/functions.php",
+		"/C/Users/Kuldeep/Desktop/local-sites/fictionaluniversity/app/public/wp-content/themes/fictional-university-theme/inc/search-route.php",
+		"/C/Users/Kuldeep/Desktop/local-sites/fictionaluniversity/app/public/wp-content/mu-plugins/university-post-types.php",
+		"/C/Users/Kuldeep/Desktop/local-sites/fictionaluniversity/app/public/wp-content/themes/fictional-university-theme/single-program.php",
+		"/C/Users/Kuldeep/Desktop/local-sites/fictionaluniversity/app/public/wp-content/themes/fictional-university-theme/single-campus.php",
+		"/C/Users/Kuldeep/Desktop/local-sites/fictionaluniversity/app/public/wp-content/themes/fictional-university-theme/archive-campus.php",
+		"/C/Users/Kuldeep/Desktop/local-sites/fictionaluniversity/app/public/wp-content/themes/fictional-university-theme/header.php",
+		"/C/Users/Kuldeep/Desktop/local-sites/fictionaluniversity/app/public/wp-content/themes/fictional-university-theme/page-past-events.php",
+		"/C/Users/Kuldeep/Desktop/local-sites/fictionaluniversity/app/public/wp-content/themes/fictional-university-theme/template-parts/content-event.php",
+		"/C/Users/Kuldeep/Desktop/local-sites/fictionaluniversity/app/public/wp-content/themes/fictional-university-theme/archive-event.php",
+		"/C/Users/Kuldeep/Desktop/local-sites/fictionaluniversity/app/public/wp-content/themes/fictional-university-theme/front-page.php",
+		"/C/Users/Kuldeep/Desktop/local-sites/fictionaluniversity/app/public/wp-content/themes/fictional-university-theme/single.php",
+		"/C/Users/Kuldeep/Desktop/local-sites/fictionaluniversity/app/public/wp-content/themes/fictional-university-theme/page.php",
+		"/C/Users/Kuldeep/Desktop/local-sites/fictionaluniversity/app/public/wp-content/themes/fictional-university-theme/single-professor.php",
+		"/C/Users/Kuldeep/Desktop/local-sites/fictionaluniversity/app/public/wp-content/themes/fictional-university-theme/archive-program.php",
+		"/C/Users/Kuldeep/Desktop/local-sites/fictionaluniversity/app/public/wp-content/themes/fictional-university-theme/single-event.php",
+		"/C/Users/Kuldeep/Desktop/local-sites/fictionaluniversity/app/public/wp-content/themes/fictional-university-theme/index.php",
+		"/C/Users/Kuldeep/Desktop/local-sites/fictionaluniversity/app/public/wp-content/themes/fictional-university-theme/archive.php",
+		"/C/Users/Kuldeep/Desktop/local-sites/fictionaluniversity/app/public/wp-content/themes/fictional-university-theme/single-proferssor.php",
+		"/C/Users/Kuldeep/Desktop/local-sites/fictionaluniversity/app/public/wp-content/archive-program.php",
+		"/C/Users/Kuldeep/Desktop/local-sites/fictionaluniversity/app/public/wp-content/single-event.php",
+		"/C/Users/Kuldeep/Desktop/local-sites/fictionaluniversity/app/public/wp-content/university-post-types.php",
+		"/C/Users/Kuldeep/Desktop/local-sites/fictionaluniversity/app/public/wp-content/themes/fictional-university-theme/css/style.css",
+		"/C/Users/Kuldeep/Desktop/local-sites/fictionaluniversity/app/public/wp-content/themes/fictional-university-theme/css/modules/headline.css",
+		"/C/Users/Kuldeep/Desktop/local-sites/fictionaluniversity/app/public/wp-content/themes/fictional-university-theme/style.css",
+		"/C/Users/Kuldeep/Desktop/local-sites/fictionaluniversity/settings.js",
+		"/C/Users/Kuldeep/Desktop/local-sites/fictional-university-brad/app/university-static-master/style.css",
+		"/C/Users/Kuldeep/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Kuldeep/Desktop/local-sites/fictionaluniversity/app/public/wp-content/themes/fictional-university-theme/test.php",
+		"/C/Users/Kuldeep/Desktop/local-sites/fictionaluniversity/app/public/wp-content/themes/fictional-university-theme/test.html",
+		"/C/Users/Kuldeep/Local Sites/fictional-university/app/public/experiment.php"
+	],
+	"find":
+	{
+		"height": 56.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 39.0
+	},
+	"input":
+	{
+		"height": 55.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 190.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "workflow_juanopablo.sublime-project",
+	"replace":
+	{
+		"height": 101.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 292.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
