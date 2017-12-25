@@ -9,10 +9,16 @@ var concat = require('gulp-concat');
 var merge = require('merge-stream');
 var newer = require('gulp-newer');
 var imagemin = require('gulp-imagemin');
+var injectPartials = require('gulp-inject-Partials');
+var minify = require('gulp-minify');
+var rename = require('gulp-rename');
+var cssmin	= require('gulp-cssmin');
+
 
 var SOURCEPATHS = {
 	sassSource : 'src/scss/*.scss',
 	htmlSource : 'src/*.html',
+	htmlPartialSource: 'src/partial/*.html',
 	jsSource: 'src/js/**',
 	imgSource: 'src/img/**'
 }
@@ -58,13 +64,38 @@ gulp.task('scripts',['clean-scripts'], function(){
 	 		.pipe(concat('main.js'))
 	 		.pipe(browserify())
 	 		.pipe(gulp.dest(APPPATH.js))
-
 });
-
-gulp.task('copy',['clean-html'], function(){
-	gulp.src(SOURCEPATHS.htmlSource)
+/** Production Tasks **/
+gulp.task('compress', function(){
+	 return gulp.src(SOURCEPATHS.jsSource)
+	 		.pipe(concat('main.js'))
+	 		.pipe(browserify())
+	 		.pipe(minify())
+	 		.pipe(gulp.dest(APPPATH.js))
+});
+gulp.task('compresscss', function(){
+	var bootstrapCSS = gulp.src('node_modules/bootstrap/dist/css/bootstrap.css');
+	var sassFiles;
+	sassFiles =  gulp.src(SOURCEPATHS.sassSource)
+			.pipe(autoprefixer())
+			.pipe(sass({outputStyle: 'Expanded'}).on('error', sass.logError))
+			return merge(bootstrapCSS,sassFiles)
+						.pipe(concat('app.css'))
+						.pipe(cssmin())
+						.pipe(rename({suffix: '.min'}))
+						.pipe(gulp.dest(APPPATH.css));
+						});
+/** End of Production Tasks */
+gulp.task('html',function(){
+	return gulp.src(SOURCEPATHS.htmlSource)
+		.pipe(injectPartials())
 		.pipe(gulp.dest(APPPATH.root))
 });
+
+// gulp.task('copy',['clean-html'], function(){
+// 	gulp.src(SOURCEPATHS.htmlSource)
+// 		.pipe(gulp.dest(APPPATH.root))
+// });
 
 gulp.task('serve',['sass'], function(){
 	browserSync.init([APPPATH.css + '/*.css', APPPATH.root + '/*.html', APPPATH.js + '/*.js'], {
@@ -74,10 +105,11 @@ gulp.task('serve',['sass'], function(){
 	})
 });
 
-gulp.task('watch',['serve', 'sass','copy', 'clean-html','clean-scripts', 'scripts','moveFonts','images'], function(){
+gulp.task('watch',['serve', 'sass', 'clean-html','clean-scripts', 'scripts','moveFonts','images','html'], function(){
 	gulp.watch([SOURCEPATHS.sassSource], ['sass']);
-	gulp.watch([SOURCEPATHS.htmlSource], ['copy']);
+	//gulp.watch([SOURCEPATHS.htmlSource], ['copy']);
 	gulp.watch([SOURCEPATHS.jsSource], ['scripts']);
+	gulp.watch([SOURCEPATHS.htmlSource,SOURCEPATHS.htmlPartialSource],['html']);
 });
 
 gulp.task('default', ['watch']);
