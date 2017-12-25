@@ -1,7 +1,7 @@
 # workflow-by-juanpablo
 My web Workflow with NPM, SASS, Gulp and more
 
-#Instructions  
+#Instructions    
 1.- Clone this repo or download it from this website  
 2.- Make sure you have these installed:  
 		- [node.js](http://nodejs.org/)  
