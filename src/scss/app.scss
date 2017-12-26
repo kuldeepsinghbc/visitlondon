@@ -1,11 +1,2 @@
-$black:'#000000';
-body {
-	background-color:gray;
-	
-}
-h1{
-	color: white;
-}
-h1:hover{
-	transition: color 1s ease;
-}
+
+@import "variables","mixins","typography","layout","grid","navigation","background","card","buttons","gallery","tables","services","footer";

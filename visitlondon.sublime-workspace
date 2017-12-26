@@ -206,6 +206,10 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/C/Users/Kuldeep/Desktop/local-sites/visitlondon"
+	],
 	"file_history":
 	[
 		"/C/Users/Kuldeep/Desktop/local-sites/bootstrap-to-wordpress/app/public/wp-content/themes/bootstrap2wordpress/style.css",
@@ -361,7 +365,7 @@
 		"height": 0.0
 	},
 	"pinned_build_system": "",
-	"project": "workflow_juanopablo.sublime-project",
+	"project": "visitlondon.sublime-project",
 	"replace":
 	{
 		"height": 101.0
